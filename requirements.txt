@@ -2,5 +2,5 @@ pandas
 matplotlib
 numpy
 seaborn
-tensorflow
-scikit-learn
+jupyter-dash
+plotly==5.10.0
